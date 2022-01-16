@@ -1,10 +1,9 @@
 # GITHUBPROJECT
 
-_(juste en dessous des badges sympatiques à placer)_
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-Une petite description du projet
+## PROJET ANNUEL
 
 ## Pour commencer
 
@@ -27,7 +26,7 @@ installer les dependances du projet et le demarrer.
 
 
 ## Versions
-**Dernière version :** 0.0.1
+**Dernière version :** 0.1.0
 
 ## Auteurs
 * **Marouane Talbi** _alias_ [@marouaneTalbi](https://github.com/marouaneTalbi)
