@@ -1,32 +1,32 @@
-## Welcome to GitHub Pages
+## Bienvenue sur GITHUBPROJECT
 
-You can use the [editor on GitHub](https://github.com/marouaneTalbi/GITHUBPROJECT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PROJET ANNUEL
 
-### Markdown
+## Pour commencer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Pré-requis
 
-```markdown
-Syntax highlighted code block
+- ubuntu 20.0.4 , debian 11 .
+- installer docker version 20.10.0 .
+- installer docker-compose version 1.20.0 .
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Installation
 
-1. Numbered
-2. List
+installer les dependances du projet et le demarrer.
 
-**Bold** and _Italic_ and `Code` text
+`docker-compose up -d`
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+## Versions
+**Dernière version :** 0.1.0
+
+## Auteurs
+* **Marouane Talbi** _alias_ [@marouaneTalbi](https://github.com/marouaneTalbi)
+
 
 ### Jekyll Themes
 
