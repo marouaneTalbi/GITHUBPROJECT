@@ -27,7 +27,7 @@ installer les dependances du projet et le demarrer.
 
 
 ## Versions
-**Dernière version :** 
+**Dernière version :** 0.0.1
 
 ## Auteurs
 * **Marouane Talbi** _alias_ [@marouaneTalbi](https://github.com/marouaneTalbi)
