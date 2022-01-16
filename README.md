@@ -7,8 +7,6 @@
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
-
 ### Pré-requis
 
 - ubuntu 20.0.4 , debian 11 .
@@ -21,7 +19,6 @@ Entrez ici les instructions pour bien débuter avec votre projet...
 installer les dependances du projet et le demarrer.
 
 `docker-compose up -d`
-
 
 
 
