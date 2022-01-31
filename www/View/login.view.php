@@ -1,1 +1,1 @@
-<h1>Se connecter</h1>
+<h1>Se Connecter</h1>
