@@ -6,7 +6,7 @@
     <meta name="description" content="ceci est la description de ma page">
 </head>
 <body>
-
+ <h1>LE front</h1>
 <?php include $this->view.".view.php";?>
 
 </body>

@@ -32,4 +32,8 @@ class User{
         $view = new View("register");
     }
 
+    public function Update(){
+        
+    }
+
 }
